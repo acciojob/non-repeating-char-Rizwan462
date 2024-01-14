@@ -16,4 +16,6 @@ function firstNonRepeatedChar(str) {
 }
 const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
+const str = 'aabbccde';
+const result = firstNonRepeatedChar(inputString);
 console.log(result);
